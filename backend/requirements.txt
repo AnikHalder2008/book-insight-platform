@@ -1,1 +1,5 @@
-
+django
+djangorestframework
+requests
+beautifulsoup4
+openai
